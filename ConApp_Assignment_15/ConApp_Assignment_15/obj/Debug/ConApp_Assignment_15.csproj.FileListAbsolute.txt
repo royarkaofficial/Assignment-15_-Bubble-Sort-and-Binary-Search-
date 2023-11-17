@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\bin\Debug\ConApp_Assignment_15.exe.config
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\bin\Debug\ConApp_Assignment_15.exe
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\bin\Debug\ConApp_Assignment_15.pdb
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\obj\Debug\ConApp_Assignment_15.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\obj\Debug\ConApp_Assignment_15.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\obj\Debug\ConApp_Assignment_15.exe
+D:\Mphasis-B2\Day-10\ConApp_Assignment_15\ConApp_Assignment_15\obj\Debug\ConApp_Assignment_15.pdb
